@@ -44,6 +44,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16228463756646496362
+  Name: "Metal Abstract Tech Panel 03"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_scf_abstract_tech_panel_003_uv"
+  }
+}
+Assets {
   Id: 15371176363827729145
   Name: "Text 01: 2"
   PlatformAssetType: 1
@@ -158,6 +167,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "F1_Text_018"
+  }
+}
+Assets {
+  Id: 11740730692540221599
+  Name: "Glitchy Hologram"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxmi_hologram"
   }
 }
 Assets {

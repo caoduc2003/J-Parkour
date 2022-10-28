@@ -6691,7 +6691,7 @@ Objects {
   Name: "Text 01: T"
   Transform {
     Location {
-      X: -725
+      X: -1175
     }
     Rotation {
       Yaw: 180
@@ -6765,7 +6765,7 @@ Objects {
   Name: "Text 01: C"
   Transform {
     Location {
-      X: -475
+      X: -925
     }
     Rotation {
       Yaw: 180
@@ -6839,7 +6839,7 @@ Objects {
   Name: "Text 01: E"
   Transform {
     Location {
-      X: -275
+      X: -725
     }
     Rotation {
       Yaw: 180
@@ -6913,7 +6913,7 @@ Objects {
   Name: "Text 01: J"
   Transform {
     Location {
-      X: -50
+      X: -500
     }
     Rotation {
       Yaw: 180
@@ -6987,7 +6987,7 @@ Objects {
   Name: "Text 01: O"
   Transform {
     Location {
-      X: 275
+      X: -175
     }
     Rotation {
       Yaw: 180
@@ -7061,7 +7061,7 @@ Objects {
   Name: "Text 01: J"
   Transform {
     Location {
-      X: 500
+      X: 75
     }
     Rotation {
       Yaw: 180
@@ -7108,7 +7108,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 920715010925537423
+      Id: 10947140732433632383
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -7135,7 +7135,7 @@ Objects {
   Name: "Text 01: P"
   Transform {
     Location {
-      X: 700
+      X: 325
     }
     Rotation {
       Yaw: 180
@@ -7252,10 +7252,9 @@ Objects {
   Name: "Text 01: G"
   Transform {
     Location {
-      X: -675
+      X: -1100
     }
     Rotation {
-      Pitch: -1.36603776e-05
       Yaw: 180
       Roll: 1.3660373e-05
     }
@@ -7327,10 +7326,9 @@ Objects {
   Name: "Text 01: N"
   Transform {
     Location {
-      X: -350
+      X: -775
     }
     Rotation {
-      Pitch: -1.36603776e-05
       Yaw: 180
       Roll: 1.3660373e-05
     }
@@ -7402,10 +7400,9 @@ Objects {
   Name: "Text 01: I"
   Transform {
     Location {
-      X: -200
+      X: -625
     }
     Rotation {
-      Pitch: -1.36603776e-05
       Yaw: 180
       Roll: 1.3660373e-05
     }
@@ -7477,7 +7474,7 @@ Objects {
   Name: "Text 01: D"
   Transform {
     Location {
-      X: 75
+      X: -350
     }
     Rotation {
       Yaw: 180
@@ -7551,10 +7548,8 @@ Objects {
   Name: "Text 01: O"
   Transform {
     Location {
-      X: 425
     }
     Rotation {
-      Pitch: -1.36603776e-05
       Yaw: 180
       Roll: 1.3660373e-05
     }
@@ -7626,10 +7621,9 @@ Objects {
   Name: "Text 01: C"
   Transform {
     Location {
-      X: 675
+      X: 250
     }
     Rotation {
-      Pitch: -1.36603776e-05
       Yaw: 180
       Roll: 1.3660373e-05
     }
@@ -7701,7 +7695,7 @@ Objects {
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
-      X: -1250
+      X: -1275
       Z: 4725
     }
     Rotation {
@@ -21469,7 +21463,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 16228463756646496362
       }
     }
   }
@@ -21534,7 +21528,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 16228463756646496362
       }
     }
   }
@@ -21599,7 +21593,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 16228463756646496362
       }
     }
   }
@@ -21664,7 +21658,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 16228463756646496362
       }
     }
   }
@@ -21727,7 +21721,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 16228463756646496362
       }
     }
   }
@@ -21792,7 +21786,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 16228463756646496362
       }
     }
   }
@@ -21857,7 +21851,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 16228463756646496362
       }
     }
   }
@@ -21919,7 +21913,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 16228463756646496362
       }
     }
   }
@@ -21984,7 +21978,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 16228463756646496362
       }
     }
   }
@@ -22049,7 +22043,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 16228463756646496362
       }
     }
   }
@@ -22111,7 +22105,7 @@ Objects {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 16228463756646496362
       }
     }
   }
@@ -26630,6 +26624,14 @@ Objects {
     }
   }
   ParentId: 7077812678792947903
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4367680979899409124
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -26683,6 +26685,14 @@ Objects {
     }
   }
   ParentId: 7077812678792947903
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4367680979899409124
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -26737,6 +26747,14 @@ Objects {
     }
   }
   ParentId: 7077812678792947903
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4367680979899409124
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -26790,6 +26808,14 @@ Objects {
     }
   }
   ParentId: 7077812678792947903
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 4367680979899409124
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -26847,13 +26873,13 @@ Objects {
     Overrides {
       Name: "ma:Building_Floor:id"
       AssetReference {
-        Id: 4762698043604520770
+        Id: 11740730692540221599
       }
     }
     Overrides {
       Name: "ma:Building_Ceiling:id"
       AssetReference {
-        Id: 3184356387751164974
+        Id: 11740730692540221599
       }
     }
   }
@@ -27222,7 +27248,7 @@ Objects {
     Overrides {
       Name: "ma:Building_Floor:id"
       AssetReference {
-        Id: 3184356387751164974
+        Id: 15224715070078160850
       }
     }
     Overrides {
@@ -27239,6 +27265,14 @@ Objects {
         B: 0.58407861
         A: 1
       }
+    }
+    Overrides {
+      Name: "ma:Building_Floor:utile"
+      Float: 1.11
+    }
+    Overrides {
+      Name: "ma:Building_Floor:vtile"
+      Float: 2.29139709
     }
   }
   Collidable_v2 {
@@ -27591,7 +27625,14 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 13308520755060172258
+        Id: 5394305057220339033
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.89
+        A: 1
       }
     }
   }
@@ -27661,13 +27702,20 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 11501171965380124574
+        Id: 5394305057220339033
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
         Id: 11501171965380124574
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.89
+        A: 1
       }
     }
   }
@@ -27743,7 +27791,14 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 11501171965380124574
+        Id: 5394305057220339033
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.89
+        A: 1
       }
     }
   }
@@ -27814,13 +27869,20 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 11501171965380124574
+        Id: 5394305057220339033
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
         Id: 11501171965380124574
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.89
+        A: 1
       }
     }
   }
@@ -27891,13 +27953,20 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 11501171965380124574
+        Id: 5394305057220339033
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
         Id: 11501171965380124574
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.89
+        A: 1
       }
     }
   }
@@ -27967,13 +28036,20 @@ Objects {
     Overrides {
       Name: "ma:Font.Sides:id"
       AssetReference {
-        Id: 11501171965380124574
+        Id: 5394305057220339033
       }
     }
     Overrides {
       Name: "ma:Font.Bevel:id"
       AssetReference {
         Id: 11501171965380124574
+      }
+    }
+    Overrides {
+      Name: "ma:Font.Sides:color"
+      Color {
+        R: 0.89
+        A: 1
       }
     }
   }
