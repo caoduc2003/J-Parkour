@@ -1,9 +1,49 @@
 Entries {
   Key {
+    StringVar: "x"
+  }
+  SimpleValue {
+    IntVar: 14151
+  }
+}
+Entries {
+  Key {
     StringVar: "1mil"
   }
   SimpleValue {
     IntVar: 69
+  }
+}
+Entries {
+  Key {
+    StringVar: "z"
+  }
+  SimpleValue {
+    IntVar: 5020
+  }
+}
+Entries {
+  Key {
+    StringVar: "y"
+  }
+  SimpleValue {
+    IntVar: -6723
+  }
+}
+Entries {
+  Key {
+    StringVar: "level"
+  }
+  SimpleValue {
+    IntVar: 10
+  }
+}
+Entries {
+  Key {
+    StringVar: "XP"
+  }
+  SimpleValue {
+    IntVar: 2576
   }
 }
 Entries {
@@ -16,33 +56,9 @@ Entries {
 }
 Entries {
   Key {
-    StringVar: "x"
+    StringVar: "Coins"
   }
   SimpleValue {
-    IntVar: -65
-  }
-}
-Entries {
-  Key {
-    StringVar: "level"
-  }
-  SimpleValue {
-    IntVar: 1
-  }
-}
-Entries {
-  Key {
-    StringVar: "z"
-  }
-  SimpleValue {
-    IntVar: 620
-  }
-}
-Entries {
-  Key {
-    StringVar: "y"
-  }
-  SimpleValue {
-    IntVar: 32
+    IntVar: 300
   }
 }

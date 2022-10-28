@@ -5,14 +5,15 @@ Objects {
   Name: "End course"
   Transform {
     Location {
-      X: 733.123779
-      Y: 622.144592
+      X: 12519.7041
+      Y: 2736.5083
+      Z: 4877.96875
     }
     Rotation {
     }
     Scale {
-      X: 2
-      Y: 2
+      X: 7.20000076
+      Y: 13.8999977
       Z: 2
     }
   }

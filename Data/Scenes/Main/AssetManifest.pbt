@@ -17,15 +17,6 @@ Assets {
   }
 }
 Assets {
-  Id: 16979306575045846275
-  Name: "Metal Steel Hexagon 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_steel_hex_001"
-  }
-}
-Assets {
   Id: 16910278292812118833
   Name: "Sun Light"
   PlatformAssetType: 6
@@ -35,12 +26,48 @@ Assets {
   }
 }
 Assets {
+  Id: 16602400112569046994
+  Name: "Prism - 3-Sided Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prism_hq_001"
+  }
+}
+Assets {
+  Id: 16501534467487486079
+  Name: "Text 01: -"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_047"
+  }
+}
+Assets {
+  Id: 15371176363827729145
+  Name: "Text 01: 2"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_028"
+  }
+}
+Assets {
   Id: 14773730737576441423
   Name: "Sci-fi Base Trim 02 Ramp 4m"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_scf_base_trim_002_4m_angled_ref"
+  }
+}
+Assets {
+  Id: 14643094640224144258
+  Name: "Animated Neon Sign - Holiday Snowflake"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "fxsm_animatedNeon_holiday_snowflake"
   }
 }
 Assets {
@@ -59,6 +86,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_i-beam_4m_001"
+  }
+}
+Assets {
+  Id: 14137070681342247922
+  Name: "Electric Surface"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_electrical_surface"
   }
 }
 Assets {
@@ -98,12 +134,21 @@ Assets {
   }
 }
 Assets {
-  Id: 12405322202868648615
-  Name: "Metal Steel Hexagon 02"
-  PlatformAssetType: 2
+  Id: 13257907195611013023
+  Name: "Text 01: O"
+  PlatformAssetType: 1
   PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_steel_hex_002"
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_014"
+  }
+}
+Assets {
+  Id: 13232560548653162828
+  Name: "Text 01: P"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_015"
   }
 }
 Assets {
@@ -134,6 +179,24 @@ Assets {
   }
 }
 Assets {
+  Id: 11445100870156636778
+  Name: "Text 01: G"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_006"
+  }
+}
+Assets {
+  Id: 10947140732433632383
+  Name: "Text 01: R"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_017"
+  }
+}
+Assets {
   Id: 10938442702775266138
   Name: "Text 01: U"
   PlatformAssetType: 1
@@ -149,6 +212,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_basic_glass_001"
+  }
+}
+Assets {
+  Id: 10637935828800002467
+  Name: "Text 01: 0"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_026"
   }
 }
 Assets {
@@ -170,12 +242,30 @@ Assets {
   }
 }
 Assets {
-  Id: 9907245168771345978
-  Name: "Metal Steel Triangle 02"
-  PlatformAssetType: 2
+  Id: 10104977661595862953
+  Name: "Text 01: I"
+  PlatformAssetType: 1
   PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_steel_tri_002"
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_008"
+  }
+}
+Assets {
+  Id: 9526822195451366444
+  Name: "Text 01: A"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_000"
+  }
+}
+Assets {
+  Id: 8000085393140907924
+  Name: "Text 01: E"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_004"
   }
 }
 Assets {
@@ -224,6 +314,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5394305057220339033
+  Name: "Emissive Glow Transparent"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_basic_emissive_001"
+  }
+}
+Assets {
   Id: 5329468422162156825
   Name: "Transparent Iridescent"
   PlatformAssetType: 2
@@ -239,6 +338,24 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_scf_base_railing_002_4m_angled_ref"
+  }
+}
+Assets {
+  Id: 4367680979899409124
+  Name: "Wireframe"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "wireframe_glow_001"
+  }
+}
+Assets {
+  Id: 3545431318135918723
+  Name: "Text 01: T"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_019"
   }
 }
 Assets {
@@ -278,15 +395,6 @@ Assets {
   }
 }
 Assets {
-  Id: 2681606937337916802
-  Name: "Clear Coat 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_clear-coat_001"
-  }
-}
-Assets {
   Id: 2422797529040544929
   Name: "Star Dome"
   PlatformAssetType: 19
@@ -302,6 +410,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_gen_whitebox_floor_001_4x4"
+  }
+}
+Assets {
+  Id: 1404304666455922340
+  Name: "Text 01: V"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_021"
   }
 }
 Assets {
@@ -341,11 +458,38 @@ Assets {
   }
 }
 Assets {
+  Id: 335246553735606101
+  Name: "Text 01: N"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_013"
+  }
+}
+Assets {
   Id: 284707601642983880
   Name: "Cube - Polished"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cube_hq_test_001"
+  }
+}
+Assets {
+  Id: 200740507365172424
+  Name: "Animated Neon Sign - Stopwatch"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "fxsm_NeonSign_StopWatch"
+  }
+}
+Assets {
+  Id: 140341023335474265
+  Name: "Text 01: D"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "F1_Text_003"
   }
 }
